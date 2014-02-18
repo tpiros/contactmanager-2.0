@@ -1,0 +1,18 @@
+{
+  "name": "contact",
+  "version": "0.0.1",
+  "description": "MEAN Contact Manager",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "~0.8.5",
+    "express": "~3.4.8",
+    "mongoose": "~3.8.7",
+    "shrinkwrap": "~0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamas Piros",
+  "license": "free"
+}
