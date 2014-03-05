@@ -29,7 +29,7 @@ Finally to install execute: <code>npm install && bower install</code>
 
 To start the projet: <code>node app.js</code>
 
-New up to date post: 
+New up to date post: http://tamas.io/updated-mean-contact-manager/
 
 Previous articles related to this topic:
 <ul>
